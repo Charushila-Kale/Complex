@@ -13,6 +13,7 @@ import web_Common_Functions.WebTextBox;
 
 public class RegisterTwo_Page_Action {
 
+// Global variable
 	WebDriver driver  = null;
 	RegisterTwo_Page_Locator regTwoPL = null;
 	ExtentTest logger = null;
